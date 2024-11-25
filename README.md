@@ -17,7 +17,7 @@ I have built a static website that appears beautifully on mobile screens. The To
 
 
 
-  ![Screenshot front page](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(131).png) <br>
+  ![Screenshot front page](https://github.com/user-attachments/assets/3f7b013e-37f9-4b35-a13d-5dc8b70b30bd) <br>
 
   ## Features
 
@@ -32,8 +32,8 @@ I have built a static website that appears beautifully on mobile screens. The To
 - **Bootstrap:** Used for Buttons and Caurosals.
 
 
-  ![Screenshot favourite places](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(132).png) <br><br>
-  ![Screenshot Detailed view](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(133).png) <br><br>
+  ![Screenshot favourite places](https://github.com/user-attachments/assets/00bf7f14-22c8-47a4-b560-edf0ee569d99) <br><br>
+  ![Screenshot Detailed view](https://github.com/user-attachments/assets/fd227db7-b735-49bb-a0d1-b7555a0e9ec3) <br><br>
 
 ## Setup Instructions
 
