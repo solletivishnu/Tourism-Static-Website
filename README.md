@@ -17,7 +17,7 @@ I have built a static website that appears beautifully on mobile screens. The To
 
 
 
-  ![Screenshot 2024-07-04 201901]([https://github.com/grishma-gedela/Tech-News/assets/156117966/217d4d9d-eea6-4d8d-b269-910109c877e6](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(131).png?raw=true)) <br>
+  ![Screenshot 2024-07-04 201901](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(131).png) <br>
 
   ## Features
 
