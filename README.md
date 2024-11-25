@@ -33,7 +33,7 @@ I have built a static website that appears beautifully on mobile screens. The To
 
 
   ![Screenshot favourite places](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(132).png) <br><br>
-  ![Screenshot favourite places](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(132).png) <br><br>
+  ![Screenshot Detailed view](https://github.com/solletivishnu/Tourism-static-website/blob/main/Screenshot%20(133).png) <br><br>
 
 ## Setup Instructions
 
